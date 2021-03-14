@@ -12,8 +12,8 @@ module.exports = {
   author: 'Poseidon Water',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  description: 'Poseidon's Notion Collection',
+  socialImageTitle: 'Oceeanstone',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
@@ -23,7 +23,7 @@ module.exports = {
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: https://cdn.jsdelivr.net/gh/saadiha/gallery/img/%E5%85%A8%E7%99%BD.png,
+  defaultPageIcon: null,
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
