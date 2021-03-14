@@ -12,7 +12,7 @@ module.exports = {
   author: 'Poseidon Water',
 
   // open graph metadata (optional)
-  description: 'Poseidon's Notion Collection',
+  description: 'My Notion Collection',
   socialImageTitle: 'Oceeanstone',
   socialImageSubtitle: 'Hello World! 👋',
 
